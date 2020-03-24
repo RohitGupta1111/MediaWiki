@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaWiki</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter to Search Wiki</string>
+</resources>
